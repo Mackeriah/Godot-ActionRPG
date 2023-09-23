@@ -2,3 +2,4 @@
 .godot/
 .godot/editor/*
 *.translation
+.godot/editor/filesystem_cache8
