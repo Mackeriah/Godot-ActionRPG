@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1695467877
+::res://::1695469278
 icon.svg::CompressedTexture2D::5144849457361177849::1695462275::1695467878::1::::<><>::
 README.md::TextFile::-1::1695462275::0::1::::<><>::
-World.tscn::PackedScene::8605316742223635039::1695467752::0::1::::<><>::uid://hkefvjyekkhi::::res://World/Bush.png<>res://Player/Player.gd<>uid://dwp6opmtau8r5::::res://Player/Player.png
+World.tscn::PackedScene::8605316742223635039::1695468812::0::1::::<><>::uid://hkefvjyekkhi::::res://World/Bush.png<>res://Player/Player.gd<>uid://dwp6opmtau8r5::::res://Player/Player.png
 ::res://Effects/::1695462275
 EnemyDeathEffect.png::CompressedTexture2D::4176509304617334747::1695462275::1695462275::1::::<><>::
 GrassEffect.png::CompressedTexture2D::4190055730034016316::1695462275::1695462275::1::::<><>::
